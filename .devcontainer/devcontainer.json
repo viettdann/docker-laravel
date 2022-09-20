@@ -1,0 +1,24 @@
+{
+	"name": "DockerLaravel",
+	"dockerComposeFile": "docker-compose.yml",
+	"service": "app",
+	"workspaceFolder": "/workspace",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"bmewburn.vscode-intelephense-client",
+				"GitHub.remotehub",
+				"GitHub.vscode-pull-request-github",
+				"eamodio.gitlens",
+				"ms-vscode.remote-explorer",
+				"onecentlin.laravel-extension-pack",
+				"esbenp.prettier-vscode",
+				"onecentlin.laravel-extension-pack",
+				"syler.sass-indented",
+				// "ramyaraoa.sass-helper",
+				// "dbaeumer.vscode-eslint",
+				"christian-kohler.path-intellisense"
+			]
+		}
+	}
+}
